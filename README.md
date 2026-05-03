@@ -2,7 +2,6 @@
 
 Etiquetatge automàtic d’imatges de botiga: **forma** amb **k-NN**, **colors predominants** amb **K-means** + model del curs, i **cerca** per text en anglès (color + peça).
 
-- **Informe (Markdown):** [`Informe.md`](Informe.md)  
 - **Informe (PDF):** [`informe_etiquetador.pdf`](informe_etiquetador.pdf)  
 - **Repositori:** [github.com/rogerjove012005/Etiquetaje](https://github.com/rogerjove012005/Etiquetaje)
 
